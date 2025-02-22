@@ -189,4 +189,6 @@ GROUP BY shift;
 - **Trend Analysis**: Insights into sales trends across different months and shifts.
 - **Customer Insights**: Reports on top customers and unique customer counts per category.
 
-###
+---
+
+⭐ If you like this project, don’t forget to give it a **star** on GitHub! 🚀
